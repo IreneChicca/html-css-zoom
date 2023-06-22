@@ -40,15 +40,14 @@ img {
 
 nav {
     background-color: black;
-    height: 80px;
+    height: 50px;
 
 }
 
 
 .nav-item {
     justify-content: end;
-    align-items: center;
-    height: 100%;
+
 }
 
 .nav-item>* {
@@ -57,19 +56,21 @@ nav {
     margin-right: 5px;
     border-radius: 5px;
     font-size: .9rem;
-
-
+    margin-top: 5px;
 }
 
-
-
-
 /* main */
+
+main {
+    background-color: rgb(46, 46, 46);
+    padding: 20px 100px;
+}
+
 .nickname {
 
     position: absolute;
     bottom: 5px;
-    border: 1PX SOLID RED;
+    background-color: rgba(46, 46, 46, .5)
 }
 
 .nickname p {
