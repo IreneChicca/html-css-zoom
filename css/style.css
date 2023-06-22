@@ -91,11 +91,8 @@ footer {
     background-color: #222222;
     display: flex;
     justify-content: space-between;
-    padding: 15px;
 
 }
-
-
 
 .icon {
     text-align: center;
@@ -106,9 +103,6 @@ footer {
     font-size: 1.3rem;
 }
 
-
-
-
 a {
     text-decoration: none;
     color: white;
@@ -118,4 +112,13 @@ a {
 
 span {
     color: #4bc800;
+}
+
+.end {
+    color: red;
+    background-color: #4a4a4a;
+}
+
+.end p {
+    padding: 30px 20px;
 }
