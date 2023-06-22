@@ -91,6 +91,7 @@ footer {
     background-color: #222222;
     display: flex;
     justify-content: space-between;
+    padding: 15px;
 
 }
 
@@ -101,14 +102,20 @@ footer {
 
 }
 
-.icon>i {
+.icon i {
     font-size: 1.3rem;
-
 }
+
+
+
 
 a {
     text-decoration: none;
     color: white;
     font-size: .5rem;
     padding: 10px;
+}
+
+span {
+    color: #4bc800;
 }
