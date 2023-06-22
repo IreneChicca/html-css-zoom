@@ -12,3 +12,28 @@ body {
 img {
     max-width: 100%;
 }
+
+
+
+
+
+.relative {
+    position: relative;
+    margin: 0;
+
+}
+
+
+
+
+
+.nickname {
+
+    position: absolute;
+    bottom: 5px;
+    border: 1PX SOLID RED;
+}
+
+.nickname p {
+    padding: 5px;
+}
